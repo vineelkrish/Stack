@@ -29,7 +29,7 @@ class MaxStack {
             return st.top();
         }
         
-        int getMin() {
+        int getMax() {
             return maxs.top();
         }
     };
